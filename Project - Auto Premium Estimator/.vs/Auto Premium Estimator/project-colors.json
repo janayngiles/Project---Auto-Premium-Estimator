@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "889c567a-0988-4a37-9ae8-0eb564b9f405": {
+      "ProjectGuid": "889c567a-0988-4a37-9ae8-0eb564b9f405",
+      "DisplayName": "Auto Premium Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

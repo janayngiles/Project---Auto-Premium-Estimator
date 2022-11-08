@@ -1,0 +1,39 @@
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.exe.config
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.exe
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.pdb
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.xml
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.AssemblyReference.cache
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto_Premium_Calculator.Form1.resources
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto_Premium_Calculator.Resources.resources
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.GenerateResource.cache
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.exe
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.xml
+C:\Users\gilel\Desktop\VBClassProjects\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.pdb
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.exe.config
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.exe
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.pdb
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.xml
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.AssemblyReference.cache
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto_Premium_Calculator.Form1.resources
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto_Premium_Calculator.Resources.resources
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.GenerateResource.cache
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.exe
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.xml
+C:\Users\gilel\Desktop\Auto Premium Estimator\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.pdb
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.exe.config
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.exe
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.pdb
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\bin\Debug\Auto Premium Calculator.xml
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.AssemblyReference.cache
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto_Premium_Calculator.Form1.resources
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto_Premium_Calculator.Resources.resources
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.GenerateResource.cache
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.exe
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.xml
+C:\Users\gilel\Desktop\Auto Premium Estimator Project\Auto Premium Calculator\Auto Premium Calculator\obj\Debug\Auto Premium Calculator.pdb

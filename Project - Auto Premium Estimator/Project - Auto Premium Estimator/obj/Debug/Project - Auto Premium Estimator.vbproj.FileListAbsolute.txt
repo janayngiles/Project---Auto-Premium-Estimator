@@ -1,0 +1,13 @@
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\bin\Debug\Auto Premium Calculator.exe.config
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\bin\Debug\Auto Premium Calculator.exe
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\bin\Debug\Auto Premium Calculator.pdb
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\bin\Debug\Auto Premium Calculator.xml
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\obj\Debug\Project - Auto Premium Estimator.vbproj.AssemblyReference.cache
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\obj\Debug\Project - Auto Premium Estimator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\obj\Debug\Auto_Premium_Calculator.Form1.resources
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\obj\Debug\Auto_Premium_Calculator.Resources.resources
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\obj\Debug\Project - Auto Premium Estimator.vbproj.GenerateResource.cache
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\obj\Debug\Project - Auto Premium Estimator.vbproj.CoreCompileInputs.cache
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\obj\Debug\Auto Premium Calculator.exe
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\obj\Debug\Auto Premium Calculator.xml
+C:\Users\gilel\Desktop\Project - Auto Premium Estimator\Project - Auto Premium Estimator\Project - Auto Premium Estimator\obj\Debug\Auto Premium Calculator.pdb
