@@ -4,8 +4,7 @@ The Auto Premium Estimator is designed to take user information, vehicle chacter
 information entered. 
 
 This project is intended to combine my field of expertise in insurance and software development to create a application that users can use to get 
-a monthly premium estimate of their auto premium. 
-
+a monthly premium estimate.
 HOW TO BUILD 
 - Visual Studio (VS) IDE recommended
 - Click "CODE (green button) for drop down 
